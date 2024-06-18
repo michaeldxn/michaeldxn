@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaeldxn
+- 👋 Hi, I’m Michael Dixon
 - 👀 I’m interested in working as a junior web developer.
 - 🌱 I’m currently learning Certificate IV in web development at NMTafe Western Australia
 - 💞️ I’m looking to collaborate on ...
