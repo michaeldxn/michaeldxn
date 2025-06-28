@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dixon.sm101@gmail.com
 - 😄 
-- ⚡ Fun fact: I'm introverted, no fun at all.
+- ⚡ Fun fact: I'm no fun at all.
 
 <!---
 michaeldxn/michaeldxn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
