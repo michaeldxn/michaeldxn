@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as a junior web developer.
 - 🌱 I’m currently learning Certificate IV in web development at NMTafe Western Australia
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dixon.sm101@gmail.com
+- 📫 How to reach me michaelcodesai@gmail.com
 - 😄 
 - ⚡ Fun fact: I'm no fun at all.
 
